@@ -1,0 +1,63 @@
+HTTP/2 200 
+date: Mon, 13 Mar 2023 10:22:26 GMT
+content-type: application/json; charset=utf-8
+x-powered-by: Express
+x-ratelimit-limit: 1000
+x-ratelimit-remaining: 999
+x-ratelimit-reset: 1675221201
+vary: Origin, Accept-Encoding
+access-control-allow-credentials: true
+cache-control: max-age=43200
+pragma: no-cache
+expires: -1
+x-content-type-options: nosniff
+etag: W/"5e6-4bSPS5tq8F8ZDeFJULWh6upjp7U"
+via: 1.1 vegur
+cf-cache-status: HIT
+age: 26055
+server-timing: cf-q-config;dur=5.0000089686364e-06
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VaS3Kwkc9cU8zKZ6GHIDwBf%2FGqvJkhm%2BQhSRFxI%2F%2BDP%2FEwjXKBDnYmGTolCJR%2Fo8aEzgTogtkZR41Lky4W1syFp3j2xpMsozkNDHkmgxqD%2FfY%2BwUnlnBWM%2FWgbaelfDZE34aHGyqTYcObPuQ9Avm"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 7a738e44df6e3a98-FRA
+alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "id labore ex et quam laborum",
+    "email": "Eliseo@gardner.biz",
+    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "quo vero reiciendis velit similique earum",
+    "email": "Jayne_Kuhic@sydney.com",
+    "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "odio adipisci rerum aut animi",
+    "email": "Nikita@garfield.biz",
+    "body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
+  },
+  {
+    "postId": 1,
+    "id": 4,
+    "name": "alias odio sit",
+    "email": "Lew@alysha.tv",
+    "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+  },
+  {
+    "postId": 1,
+    "id": 5,
+    "name": "vero eaque aliquid doloribus et culpa",
+    "email": "Hayden@althea.biz",
+    "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
+  }
+]
+
+//content-type value is application/json; charset=utf-8
