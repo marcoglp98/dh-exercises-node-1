@@ -1,27 +1,3 @@
-HTTP/2 200 
-date: Mon, 13 Mar 2023 10:22:26 GMT
-content-type: application/json; charset=utf-8
-x-powered-by: Express
-x-ratelimit-limit: 1000
-x-ratelimit-remaining: 999
-x-ratelimit-reset: 1675221201
-vary: Origin, Accept-Encoding
-access-control-allow-credentials: true
-cache-control: max-age=43200
-pragma: no-cache
-expires: -1
-x-content-type-options: nosniff
-etag: W/"5e6-4bSPS5tq8F8ZDeFJULWh6upjp7U"
-via: 1.1 vegur
-cf-cache-status: HIT
-age: 26055
-server-timing: cf-q-config;dur=5.0000089686364e-06
-report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VaS3Kwkc9cU8zKZ6GHIDwBf%2FGqvJkhm%2BQhSRFxI%2F%2BDP%2FEwjXKBDnYmGTolCJR%2Fo8aEzgTogtkZR41Lky4W1syFp3j2xpMsozkNDHkmgxqD%2FfY%2BwUnlnBWM%2FWgbaelfDZE34aHGyqTYcObPuQ9Avm"}],"group":"cf-nel","max_age":604800}
-nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
-server: cloudflare
-cf-ray: 7a738e44df6e3a98-FRA
-alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
-
 [
   {
     "postId": 1,
@@ -60,4 +36,3 @@ alt-svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
   }
 ]
 
-//content-type value is application/json; charset=utf-8
